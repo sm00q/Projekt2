@@ -12,6 +12,7 @@ public class Main {
             System.out.println("i = " + i);
             System.out.println("123");
             System.out.println("4");
+            System.out.println("another");
         }
     }
 }
